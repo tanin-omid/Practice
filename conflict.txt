@@ -1,1 +1,5 @@
 conflict file2 created in master branch
+
+
+
+new line created 
